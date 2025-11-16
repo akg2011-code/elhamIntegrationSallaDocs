@@ -128,5 +128,5 @@ For comprehensive documentation on specific topics, refer to the detailed sectio
 
 ---
 
-_Last Updated: 2024_
+_Last Updated: 2025_
 _Version: 1.0.0_
